@@ -1,0 +1,4 @@
+-Hi, I’m @georgejns
+-I’m interested in python programming
+-I’m currently learning python
+- Looking for generall help with programming
